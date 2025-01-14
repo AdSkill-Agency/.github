@@ -1,6 +1,6 @@
 # AdSkill 🚀
 
-![AdSkill Logo](https://github.com/AdSkill-Agency/.github/blob/main/logo.png) 
+![AdSkill Logo](https://github.com/AdSkill-Agency/.github/blob/main/images/logo.png) 
 
 ---
 
