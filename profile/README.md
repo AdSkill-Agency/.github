@@ -4,40 +4,41 @@
 
 ---
 
-## О компании 🏢
+## About the Company 🏢
 
-**AdSkill** — ведущая компания в области цифрового маркетинга, предлагающая инновационные решения и образовательные программы для профессионалов и бизнеса. Наша миссия — помочь клиентам развивать навыки и знания для успешного продвижения в современной цифровой среде, используя передовые инструменты и стратегии.
+**AdSkill** is a leading company in digital marketing, offering innovative solutions and educational programs for professionals and businesses. Our mission is to help clients develop skills and knowledge for successful advancement in the modern digital landscape by using cutting-edge tools and strategies.
 
-С самого основания компания фокусируется на:
-- **Качественном образовании 🎓:** Предоставление обучающих курсов и материалов, основанных на реальных кейсах и актуальных трендах рынка.
-- **Практических решениях 🛠️:** Разработка и внедрение эффективных маркетинговых стратегий, адаптированных под нужды клиентов.
-- **Инновациях 💡:** Использование новейших технологий для достижения лучших результатов в сфере рекламы и маркетинга.
-
----
-
-## Наши услуги 📝
-
-- **Обучение 📚:** Курсы и тренинги по цифровому маркетингу, SEO, контент-маркетингу, аналитике и другим актуальным темам.
-- **Консалтинг 🤝:** Индивидуальные и корпоративные консультации по стратегии продвижения, управлению рекламными кампаниями и оптимизации процессов.
-- **Инструменты и решения ⚙️:** Разработка и внедрение программных решений, помогающих автоматизировать и улучшить маркетинговые процессы.
+Since its inception, the company has focused on:
+- **Quality Education 🎓:** Providing training courses and materials based on real-life cases and current market trends.
+- **Practical Solutions 🛠️:** Developing and implementing effective marketing strategies tailored to the needs of clients.
+- **Innovation 💡:** Utilizing the latest technologies to achieve the best results in advertising and marketing.
 
 ---
 
-## Почему выбирают AdSkill? 🌟
+## Our Services 📝
 
-- **Профессионализм 👩‍💼👨‍💼:** Команда экспертов с многолетним опытом в индустрии цифрового маркетинга.
-- **Индивидуальный подход ❤️:** Решения и обучение, адаптированные под уникальные требования каждого клиента.
-- **Результативность 📈:** Практически проверенные методики, приводящие к реальным улучшениям и росту показателей бизнеса.
+- **Training 📚:** Courses and workshops on digital marketing, SEO, content marketing, analytics, and other relevant topics.
+- **Consulting 🤝:** Individual and corporate consultations on promotion strategies, managing advertising campaigns, and process optimization.
+- **Tools & Solutions ⚙️:** Development and implementation of software solutions that help automate and improve marketing processes.
 
 ---
 
-## Контактная информация 📞
+## Why Choose AdSkill? 🌟
 
-- **Веб-сайт:** [https://adskill.com/](https://adskill.com/)
-- **Электронная почта:** [info@adskill.com](mailto:sales@adskill.com)
-- **Социальные сети:**
+- **Professionalism 👩‍💼👨‍💼:** A team of experts with many years of experience in the digital marketing industry.
+- **Individual Approach ❤️:** Solutions and training tailored to the unique requirements of each client.
+- **Effectiveness 📈:** Proven methodologies that lead to real improvements and business growth.
+
+---
+
+## Contact Information 📞
+
+- **Website:** [https://adskill.com/](https://adskill.com/)
+- **Email:** [sales@adskill.com](mailto:sales@adskill.com)
+- **Social Media:**
   - [LinkedIn](https://www.linkedin.com/company/adskill/) 👍
   - [YouTube](https://www.youtube.com/channel/UCwvH24v1xw_eHSN-TTITedA) 🐦
+
 ---
 
-© 2025 AdSkill. Все права защищены.
+© 2025 AdSkill. All rights reserved.
